@@ -1,3 +1,41 @@
-Data Engineer with over 12 years of experience in developing enterprise solutions across various domains. My expertise encompasses a wide range of technical skills and industry knowledge, particularly in Supply Chain Management, Risk and Compliance Management, and Manufacturing. Proficient in programming languages such as Core Java and Python, and skilled in leveraging Reporting & Analytical Tools like Tableau.
-I have a strong foundation in Linux Shell Scripting and comprehensive knowledge of various RDBMS including ORACLE, MY SQL, and MS SQL. My recent focus in Data Engineering has involved extensive work with AWS services like EC2, S3, Lambda, SQS, CloudFormation Template, and Redshift, contributing significantly to the efficiency and scalability of data processes.
-I am committed to implementing quality-driven development and continuously exploring new technologies to enhance enterprise solutions. Seeking opportunities to apply my extensive skills and knowledge in a dynamic Data Engineering role.
+👨‍💻 Data Engineer — 12+ Years of Experience
+A seasoned Data Engineer with over 12 years of experience in designing and developing enterprise solutions across diverse domains, including:
+
+📦 Supply Chain Management
+🔍 Risk and Compliance Management
+🏭 Manufacturing
+🚀 Technical Expertise
+💻 Programming Languages
+  Core Java
+  Python
+
+📊 Reporting & Analytical Tools
+Tableau
+
+💡 Scripting & Automation
+Linux Shell Scripting
+
+🛢️ Databases
+Oracle
+MySQL
+MS SQL Server
+
+☁️ Cloud & Data Engineering Focus
+In recent years, my focus has shifted heavily towards cloud-native data engineering solutions using AWS, where I have designed scalable and efficient data pipelines and infrastructure.
+
+🧰 AWS Services
+Amazon EC2
+Amazon S3
+AWS Lambda
+Amazon SQS
+AWS CloudFormation
+Amazon Redshift
+
+🧠 Approach & Mindset
+I am deeply committed to:
+✨ Quality-driven development
+🧪 Experimenting with emerging technologies
+📈 Enhancing the scalability and performance of enterprise-grade systems
+
+🎯 Career Objective
+I’m actively seeking challenging Data Engineering roles where I can contribute my skills, deepen my cloud and data platform expertise, and help build reliable, secure, and scalable data solutions.
