@@ -5,7 +5,7 @@
 🏭 Manufacturing
 🚀 Technical Expertise
 💻 Programming Languages
-  Core Java
+  Core Java,
   Python
 
 📊 Reporting & Analytical Tools
