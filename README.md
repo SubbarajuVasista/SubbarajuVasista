@@ -1,5 +1,4 @@
-👨‍💻 Data Engineer — 12+ Years of Experience
-A seasoned Data Engineer with over 12 years of experience in designing and developing enterprise solutions across diverse domains, including:
+👨‍💻 A seasoned Data Engineer with over 12 years of experience in designing and developing enterprise solutions across diverse domains, including:
 
 📦 Supply Chain Management
 🔍 Risk and Compliance Management
