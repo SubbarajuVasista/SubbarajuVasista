@@ -5,6 +5,7 @@ A seasoned **Data Engineer** with over **12 years of experience** in designing a
 - 📦 **Supply Chain Management**  
 - 🔍 **Risk and Compliance Management**  
 - 🏭 **Manufacturing**
+- 🔍 **Legal and Professioanl**
 
 ---
 
