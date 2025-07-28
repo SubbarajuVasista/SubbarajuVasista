@@ -51,7 +51,3 @@ I am deeply committed to:
 - 📈 Enhancing the scalability and performance of enterprise-grade systems
 
 ---
-
-## 🎯 Career Objective
-
-I’m actively seeking **challenging Data Engineering roles** where I can contribute my skills, deepen my cloud and data platform expertise, and help build **reliable, secure, and scalable** data solutions.
